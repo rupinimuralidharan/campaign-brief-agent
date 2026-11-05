@@ -1,3 +1,5 @@
+<img width="1585" height="921" alt="Screenshot 2026-11-05 234119" src="https://github.com/user-attachments/assets/38f4c37a-28c2-45b9-951b-ef7d7cf9297c" />
+<img width="1590" height="971" alt="Screenshot 2026-11-05 234047" src="https://github.com/user-attachments/assets/3e9445ec-20e2-4d22-b7d7-544db74eac27" />
 # campaign-brief-agent
 AI agent that generates structured mock campaign briefs, built on my digital marketing playbook
 # Campaign Brief Generator: an AI agent built on my digital marketing playbook
